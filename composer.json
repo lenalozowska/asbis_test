@@ -1,0 +1,17 @@
+{
+    "name": "lozovskaya/test",
+    "description": "Test task for Asbis",
+    "type": "project",
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elena Lozovskaya",
+            "email": "e.lozovskaya96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
